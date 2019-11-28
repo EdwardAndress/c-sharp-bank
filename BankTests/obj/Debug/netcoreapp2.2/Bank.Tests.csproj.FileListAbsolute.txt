@@ -1,0 +1,16 @@
+/Users/eddieandress/Projects/Bank/BankTests/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.dll
+/Users/eddieandress/Projects/Bank/BankTests/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.pdb
+/Users/eddieandress/Projects/Bank/BankTests/bin/Debug/netcoreapp2.2/nunit.engine.netstandard.dll
+/Users/eddieandress/Projects/Bank/BankTests/bin/Debug/netcoreapp2.2/Bank.Tests.deps.json
+/Users/eddieandress/Projects/Bank/BankTests/bin/Debug/netcoreapp2.2/Bank.Tests.runtimeconfig.json
+/Users/eddieandress/Projects/Bank/BankTests/bin/Debug/netcoreapp2.2/Bank.Tests.runtimeconfig.dev.json
+/Users/eddieandress/Projects/Bank/BankTests/bin/Debug/netcoreapp2.2/Bank.Tests.dll
+/Users/eddieandress/Projects/Bank/BankTests/bin/Debug/netcoreapp2.2/Bank.Tests.pdb
+/Users/eddieandress/Projects/Bank/BankTests/bin/Debug/netcoreapp2.2/Bank.dll
+/Users/eddieandress/Projects/Bank/BankTests/bin/Debug/netcoreapp2.2/Bank.pdb
+/Users/eddieandress/Projects/Bank/BankTests/obj/Debug/netcoreapp2.2/Bank.Tests.csprojAssemblyReference.cache
+/Users/eddieandress/Projects/Bank/BankTests/obj/Debug/netcoreapp2.2/Bank.Tests.AssemblyInfoInputs.cache
+/Users/eddieandress/Projects/Bank/BankTests/obj/Debug/netcoreapp2.2/Bank.Tests.AssemblyInfo.cs
+/Users/eddieandress/Projects/Bank/BankTests/obj/Debug/netcoreapp2.2/Bank.Tests.csproj.CopyComplete
+/Users/eddieandress/Projects/Bank/BankTests/obj/Debug/netcoreapp2.2/Bank.Tests.dll
+/Users/eddieandress/Projects/Bank/BankTests/obj/Debug/netcoreapp2.2/Bank.Tests.pdb

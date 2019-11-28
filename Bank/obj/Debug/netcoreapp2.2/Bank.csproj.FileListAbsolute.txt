@@ -1,0 +1,10 @@
+/Users/eddieandress/Projects/Bank/Bank/bin/Debug/netcoreapp2.2/Bank.deps.json
+/Users/eddieandress/Projects/Bank/Bank/bin/Debug/netcoreapp2.2/Bank.runtimeconfig.json
+/Users/eddieandress/Projects/Bank/Bank/bin/Debug/netcoreapp2.2/Bank.runtimeconfig.dev.json
+/Users/eddieandress/Projects/Bank/Bank/bin/Debug/netcoreapp2.2/Bank.dll
+/Users/eddieandress/Projects/Bank/Bank/bin/Debug/netcoreapp2.2/Bank.pdb
+/Users/eddieandress/Projects/Bank/Bank/obj/Debug/netcoreapp2.2/Bank.csprojAssemblyReference.cache
+/Users/eddieandress/Projects/Bank/Bank/obj/Debug/netcoreapp2.2/Bank.AssemblyInfoInputs.cache
+/Users/eddieandress/Projects/Bank/Bank/obj/Debug/netcoreapp2.2/Bank.AssemblyInfo.cs
+/Users/eddieandress/Projects/Bank/Bank/obj/Debug/netcoreapp2.2/Bank.dll
+/Users/eddieandress/Projects/Bank/Bank/obj/Debug/netcoreapp2.2/Bank.pdb

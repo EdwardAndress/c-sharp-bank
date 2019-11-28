@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bank", "Bank\Bank.csproj", "{E27538E9-7C08-4772-B920-0B66F2202B48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bank.Tests", "BankTests\Bank.Tests.csproj", "{4A771EA9-C8E4-44C5-AB98-EEBDB23ED439}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E27538E9-7C08-4772-B920-0B66F2202B48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E27538E9-7C08-4772-B920-0B66F2202B48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E27538E9-7C08-4772-B920-0B66F2202B48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E27538E9-7C08-4772-B920-0B66F2202B48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A771EA9-C8E4-44C5-AB98-EEBDB23ED439}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A771EA9-C8E4-44C5-AB98-EEBDB23ED439}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A771EA9-C8E4-44C5-AB98-EEBDB23ED439}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A771EA9-C8E4-44C5-AB98-EEBDB23ED439}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

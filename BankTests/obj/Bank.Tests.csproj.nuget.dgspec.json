@@ -1,0 +1,124 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/eddieandress/Projects/Bank/BankTests/Bank.Tests.csproj": {}
+  },
+  "projects": {
+    "/Users/eddieandress/Projects/Bank/Bank/Bank.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/eddieandress/Projects/Bank/Bank/Bank.csproj",
+        "projectName": "Bank",
+        "projectPath": "/Users/eddieandress/Projects/Bank/Bank/Bank.csproj",
+        "packagesPath": "/Users/eddieandress/.nuget/packages/",
+        "outputPath": "/Users/eddieandress/Projects/Bank/Bank/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/eddieandress/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/Users/eddieandress/Projects/Bank/BankTests/Bank.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/eddieandress/Projects/Bank/BankTests/Bank.Tests.csproj",
+        "projectName": "Bank.Tests",
+        "projectPath": "/Users/eddieandress/Projects/Bank/BankTests/Bank.Tests.csproj",
+        "packagesPath": "/Users/eddieandress/.nuget/packages/",
+        "outputPath": "/Users/eddieandress/Projects/Bank/BankTests/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/eddieandress/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "/Users/eddieandress/Projects/Bank/Bank/Bank.csproj": {
+                "projectPath": "/Users/eddieandress/Projects/Bank/Bank/Bank.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.9.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.11.0, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.11.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
